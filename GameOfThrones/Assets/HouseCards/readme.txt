@@ -1,0 +1,1 @@
+housecards: 222x350
